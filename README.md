@@ -126,7 +126,7 @@ This project analyzes food hygiene ratings provided by the UK Food Standards Age
 
 ## Final Database Statistics
 
-- **Total Establishments After Cleanup**: `2,881`
+- **Total Establishments After Cleanup**: `3,876`
 - **Fields Standardized**: `latitude`, `longitude`, and `RatingValue`.
 
 ---
